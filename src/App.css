@@ -40,3 +40,9 @@
 button {
   font-size: calc(10px + 2vmin);
 }
+
+.list__style{
+  display: flex;
+  flex-direction: column;
+  gap:2;
+}
